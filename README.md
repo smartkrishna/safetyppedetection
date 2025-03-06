@@ -9,7 +9,6 @@
 
 There have been various accidents in construction sites, due to the lack of safety equipments for workers. The aim of this project was to detect PPE on a worker, which can be further used for tracking and triggerring alarm (safety monitoring) in future. We use the dataset provided by Roboflow on [**Construction Site Safety Image Dataset**](https://universe.roboflow.com/roboflow-universe-projects/construction-site-safety). 
 
-For easier use the dataset is already uploaded here: [**Kaggle Dataset**](https://www.kaggle.com/datasets/snehilsanyal/construction-site-safety-image-dataset-roboflow).
 
 The dataset consists of 2801 image samples with labels in YoloV8 format. These images are split into `train: 2605`, `valid: 114` and `test: 82` sets. Each folder consists of `images` and `labels` folders.
 
